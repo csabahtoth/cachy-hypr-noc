@@ -1,0 +1,8 @@
+require("cfg/animation")
+require("cfg/autostart")
+require("cfg/keybinds")
+require("cfg/input")
+require("cfg/display")
+require("cfg/layout")
+require("cfg/rules")
+require("cfg/misc")
